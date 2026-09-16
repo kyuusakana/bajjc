@@ -1,0 +1,912 @@
+{
+  "version": 1,
+  "rev": "init-20260916152639",
+  "characters": [
+    {
+      "id": "3ol55h",
+      "name": "艾米",
+      "alias": [
+        "和泉元艾米",
+        "和泉元英美",
+        "拉链"
+      ]
+    },
+    {
+      "id": "0r4qvu",
+      "name": "伊织(泳装)",
+      "alias": [
+        "银镜伊织(泳装)",
+        "水伊织",
+        "水佐仓"
+      ]
+    },
+    {
+      "id": "lvnlf3",
+      "name": "椿",
+      "alias": [
+        "春日椿",
+        "狗盾"
+      ]
+    },
+    {
+      "id": "3umvge",
+      "name": "星野(武装)",
+      "alias": [
+        "小鸟游星野(武装)",
+        "临战星野",
+        "肘星野"
+      ]
+    },
+    {
+      "id": "s0hxml",
+      "name": "八云",
+      "alias": [
+        "荒槙八云"
+      ]
+    },
+    {
+      "id": "w1xrc9",
+      "name": "满(礼服)",
+      "alias": [
+        "千鸟满(礼服)",
+        "千鸟三千留(礼服)",
+        "礼服满"
+      ]
+    },
+    {
+      "id": "teyp4y",
+      "name": "花子(泳装)",
+      "alias": [
+        "浦和花子(泳装)",
+        "水花子"
+      ]
+    },
+    {
+      "id": "f9lmy4",
+      "name": "宫子",
+      "alias": [
+        "月雪宫子",
+        "月雪都子"
+      ]
+    },
+    {
+      "id": "zlfr6n",
+      "name": "星野",
+      "alias": [
+        "小鸟游星野",
+        "大叔",
+        "粉毛"
+      ]
+    },
+    {
+      "id": "qpewaq",
+      "name": "白子(恐怖)",
+      "alias": [
+        "砂狼白子(恐怖)",
+        "砂狼白子(TERROR)",
+        "黑子"
+      ]
+    },
+    {
+      "id": "vrjydp",
+      "name": "妮露(邦妮)",
+      "alias": [
+        "美甘妮露(邦妮)",
+        "美甘宁瑠(兔女郎)",
+        "兔妮露",
+        "妮露(兔女郎)",
+        "红兔"
+      ]
+    },
+    {
+      "id": "q5y2wh",
+      "name": "歌原",
+      "alias": [
+        "白石歌原",
+        "白石咏叶",
+        "炮台"
+      ]
+    },
+    {
+      "id": "upyywf",
+      "name": "日奈(礼服)",
+      "alias": [
+        "空崎日奈(礼服)",
+        "空崎阳奈(礼服)",
+        "礼服日奈"
+      ]
+    },
+    {
+      "id": "jb57x0",
+      "name": "瞬",
+      "alias": [
+        "春原瞬",
+        "春原旬",
+        "梅花狙",
+        "教官"
+      ]
+    },
+    {
+      "id": "4w9rc0",
+      "name": "优香",
+      "alias": [
+        "早濑优香",
+        "邮箱"
+      ]
+    },
+    {
+      "id": "riud7a",
+      "name": "玲纱(魔法)",
+      "alias": [
+        "宇泽玲纱(魔法)",
+        "宇泽澪纱(魔法少女)",
+        "魔芋"
+      ]
+    },
+    {
+      "id": "n4fpzp",
+      "name": "鹤城",
+      "alias": [
+        "剑先鹤城",
+        "剑先弦生",
+        "颜艺"
+      ]
+    },
+    {
+      "id": "57cjmt",
+      "name": "真纪",
+      "alias": [
+        "小涂真纪",
+        "彩弹"
+      ]
+    },
+    {
+      "id": "vlqcl7",
+      "name": "伊吕波",
+      "alias": [
+        "枣伊吕波",
+        "168"
+      ]
+    },
+    {
+      "id": "zkkv36",
+      "name": "皋月",
+      "alias": [
+        "京极皋月"
+      ]
+    },
+    {
+      "id": "ult78f",
+      "name": "亚津子",
+      "alias": [
+        "秤亚津子",
+        "秤敦子"
+      ]
+    },
+    {
+      "id": "0h6i6g",
+      "name": "响",
+      "alias": [
+        "猫冢响",
+        "迫击炮"
+      ]
+    },
+    {
+      "id": "a7ipla",
+      "name": "真里奈",
+      "alias": [
+        "池仓真里奈",
+        "池仓玛丽娜",
+        "保洁"
+      ]
+    },
+    {
+      "id": "w5urq4",
+      "name": "莲见(泳装)",
+      "alias": [
+        "羽川莲见(泳装)",
+        "羽川莲实(泳装)",
+        "水莲见"
+      ]
+    },
+    {
+      "id": "iluo0t",
+      "name": "切里诺",
+      "alias": [
+        "连河切里诺",
+        "连河洁莉诺",
+        "斯大林",
+        "斯大罗"
+      ]
+    }
+  ],
+  "defenseTeams": {
+    "s11": [
+      {
+        "defense": [
+          "3ol55h",
+          "0r4qvu",
+          "lvnlf3",
+          "3umvge",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "f9lmy4",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "zlfr6n",
+              "teyp4y",
+              "qpewaq",
+              "vrjydp",
+              "q5y2wh",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "upyywf",
+              "teyp4y",
+              "jb57x0",
+              "4w9rc0",
+              "riud7a",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "lvnlf3",
+              "n4fpzp",
+              "4w9rc0",
+              "57cjmt",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "0r4qvu",
+              "qpewaq",
+              "vrjydp",
+              "n4fpzp",
+              "w1xrc9",
+              "zkkv36"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "lvnlf3",
+              "n4fpzp",
+              "3ol55h",
+              "ult78f",
+              "w1xrc9",
+              "0h6i6g"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "3umvge",
+              "3ol55h",
+              "4w9rc0",
+              "vrjydp",
+              "w1xrc9",
+              "0h6i6g"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "a7ipla",
+              "jb57x0",
+              "qpewaq",
+              "zlfr6n",
+              "w1xrc9",
+              "q5y2wh"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "vrjydp",
+          "lvnlf3",
+          "jb57x0",
+          "3ol55h",
+          "w1xrc9",
+          "vlqcl7"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "qpewaq",
+          "3ol55h",
+          "a7ipla",
+          "jb57x0",
+          "riud7a",
+          "q5y2wh"
+        ],
+        "counters": [
+          {
+            "team": [
+              "w5urq4",
+              "3ol55h",
+              "jb57x0",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "jb57x0",
+              "a7ipla",
+              "3ol55h",
+              "qpewaq",
+              "w1xrc9",
+              "q5y2wh"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "jb57x0",
+          "zlfr6n",
+          "qpewaq",
+          "w1xrc9",
+          "q5y2wh"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "jb57x0",
+          "zlfr6n",
+          "qpewaq",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "upyywf",
+              "teyp4y",
+              "jb57x0",
+              "4w9rc0",
+              "riud7a",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 2
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "jb57x0",
+          "qpewaq",
+          "w5urq4",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "3ol55h",
+          "zlfr6n",
+          "qpewaq",
+          "w1xrc9",
+          "q5y2wh"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "jb57x0",
+          "3ol55h",
+          "3umvge",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "iluo0t",
+          "3ol55h",
+          "qpewaq",
+          "riud7a",
+          "q5y2wh"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "iluo0t",
+          "vrjydp",
+          "qpewaq",
+          "w1xrc9",
+          "zkkv36"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "jb57x0",
+          "3ol55h",
+          "w5urq4",
+          "w1xrc9",
+          "q5y2wh"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "lvnlf3",
+          "3ol55h",
+          "3umvge",
+          "jb57x0",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": []
+      }
+    ],
+    "s10": [
+      {
+        "defense": [
+          "n4fpzp",
+          "upyywf",
+          "lvnlf3",
+          "a7ipla",
+          "q5y2wh",
+          "vlqcl7"
+        ],
+        "counters": [
+          {
+            "team": [
+              "3umvge",
+              "a7ipla",
+              "qpewaq",
+              "57cjmt",
+              "s0hxml",
+              "q5y2wh"
+            ],
+            "successCount": 13
+          },
+          {
+            "team": [
+              "f9lmy4",
+              "a7ipla",
+              "0r4qvu",
+              "zlfr6n",
+              "riud7a",
+              "vlqcl7"
+            ],
+            "successCount": 12
+          },
+          {
+            "team": [
+              "0r4qvu",
+              "n4fpzp",
+              "vrjydp",
+              "w5urq4",
+              "q5y2wh",
+              "s0hxml"
+            ],
+            "successCount": 5
+          },
+          {
+            "team": [
+              "iluo0t",
+              "f9lmy4",
+              "qpewaq",
+              "a7ipla",
+              "riud7a",
+              "vlqcl7"
+            ],
+            "successCount": 16
+          }
+        ]
+      },
+      {
+        "defense": [
+          "57cjmt",
+          "teyp4y",
+          "0r4qvu",
+          "iluo0t",
+          "zkkv36",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "zlfr6n",
+              "vrjydp",
+              "upyywf",
+              "w5urq4",
+              "vlqcl7",
+              "zkkv36"
+            ],
+            "successCount": 3
+          },
+          {
+            "team": [
+              "teyp4y",
+              "vrjydp",
+              "ult78f",
+              "3umvge",
+              "0h6i6g",
+              "zkkv36"
+            ],
+            "successCount": 18
+          },
+          {
+            "team": [
+              "57cjmt",
+              "zlfr6n",
+              "lvnlf3",
+              "0r4qvu",
+              "w1xrc9",
+              "q5y2wh"
+            ],
+            "successCount": 9
+          },
+          {
+            "team": [
+              "n4fpzp",
+              "f9lmy4",
+              "4w9rc0",
+              "57cjmt",
+              "riud7a",
+              "zkkv36"
+            ],
+            "successCount": 6
+          },
+          {
+            "team": [
+              "f9lmy4",
+              "3umvge",
+              "vrjydp",
+              "n4fpzp",
+              "q5y2wh",
+              "riud7a"
+            ],
+            "successCount": 4
+          }
+        ]
+      },
+      {
+        "defense": [
+          "0r4qvu",
+          "3ol55h",
+          "jb57x0",
+          "n4fpzp",
+          "vlqcl7",
+          "riud7a"
+        ],
+        "counters": [
+          {
+            "team": [
+              "0r4qvu",
+              "n4fpzp",
+              "57cjmt",
+              "zlfr6n",
+              "s0hxml",
+              "q5y2wh"
+            ],
+            "successCount": 4
+          },
+          {
+            "team": [
+              "teyp4y",
+              "qpewaq",
+              "57cjmt",
+              "f9lmy4",
+              "w1xrc9",
+              "riud7a"
+            ],
+            "successCount": 15
+          },
+          {
+            "team": [
+              "3umvge",
+              "iluo0t",
+              "qpewaq",
+              "ult78f",
+              "vlqcl7",
+              "riud7a"
+            ],
+            "successCount": 3
+          },
+          {
+            "team": [
+              "3umvge",
+              "w5urq4",
+              "qpewaq",
+              "vrjydp",
+              "zkkv36",
+              "s0hxml"
+            ],
+            "successCount": 9
+          },
+          {
+            "team": [
+              "vrjydp",
+              "jb57x0",
+              "f9lmy4",
+              "iluo0t",
+              "riud7a",
+              "vlqcl7"
+            ],
+            "successCount": 7
+          }
+        ]
+      },
+      {
+        "defense": [
+          "iluo0t",
+          "a7ipla",
+          "4w9rc0",
+          "3ol55h",
+          "s0hxml",
+          "0h6i6g"
+        ],
+        "counters": [
+          {
+            "team": [
+              "ult78f",
+              "3umvge",
+              "upyywf",
+              "vrjydp",
+              "vlqcl7",
+              "riud7a"
+            ],
+            "successCount": 6
+          },
+          {
+            "team": [
+              "n4fpzp",
+              "lvnlf3",
+              "vrjydp",
+              "3umvge",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 5
+          },
+          {
+            "team": [
+              "n4fpzp",
+              "lvnlf3",
+              "iluo0t",
+              "57cjmt",
+              "0h6i6g",
+              "vlqcl7"
+            ],
+            "successCount": 2
+          },
+          {
+            "team": [
+              "n4fpzp",
+              "lvnlf3",
+              "iluo0t",
+              "qpewaq",
+              "0h6i6g",
+              "q5y2wh"
+            ],
+            "successCount": 8
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3umvge",
+          "zlfr6n",
+          "iluo0t",
+          "f9lmy4",
+          "q5y2wh",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "iluo0t",
+              "w5urq4",
+              "4w9rc0",
+              "a7ipla",
+              "zkkv36",
+              "q5y2wh"
+            ],
+            "successCount": 17
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "3umvge",
+          "zlfr6n",
+          "n4fpzp",
+          "0h6i6g",
+          "q5y2wh"
+        ],
+        "counters": [
+          {
+            "team": [
+              "upyywf",
+              "jb57x0",
+              "3ol55h",
+              "qpewaq",
+              "q5y2wh",
+              "riud7a"
+            ],
+            "successCount": 7
+          },
+          {
+            "team": [
+              "4w9rc0",
+              "a7ipla",
+              "iluo0t",
+              "3ol55h",
+              "zkkv36",
+              "riud7a"
+            ],
+            "successCount": 10
+          },
+          {
+            "team": [
+              "0r4qvu",
+              "w5urq4",
+              "ult78f",
+              "vrjydp",
+              "vlqcl7",
+              "q5y2wh"
+            ],
+            "successCount": 18
+          },
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "57cjmt",
+              "vrjydp",
+              "q5y2wh",
+              "zkkv36"
+            ],
+            "successCount": 11
+          }
+        ]
+      },
+      {
+        "defense": [
+          "jb57x0",
+          "n4fpzp",
+          "57cjmt",
+          "ult78f",
+          "s0hxml",
+          "riud7a"
+        ],
+        "counters": [
+          {
+            "team": [
+              "a7ipla",
+              "upyywf",
+              "vrjydp",
+              "3ol55h",
+              "0h6i6g",
+              "riud7a"
+            ],
+            "successCount": 11
+          },
+          {
+            "team": [
+              "jb57x0",
+              "w5urq4",
+              "3umvge",
+              "57cjmt",
+              "zkkv36",
+              "0h6i6g"
+            ],
+            "successCount": 8
+          },
+          {
+            "team": [
+              "vrjydp",
+              "jb57x0",
+              "w5urq4",
+              "0r4qvu",
+              "riud7a",
+              "0h6i6g"
+            ],
+            "successCount": 2
+          }
+        ]
+      },
+      {
+        "defense": [
+          "4w9rc0",
+          "qpewaq",
+          "3umvge",
+          "jb57x0",
+          "q5y2wh",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "4w9rc0",
+              "teyp4y",
+              "zlfr6n",
+              "f9lmy4",
+              "zkkv36",
+              "s0hxml"
+            ],
+            "successCount": 8
+          }
+        ]
+      }
+    ]
+  }
+}
