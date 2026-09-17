@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "init-20260916152639",
+  "rev": "20260917-092705-12im",
   "characters": [
     {
       "id": "3ol55h",
@@ -218,6 +218,16 @@
         "斯大林",
         "斯大罗"
       ]
+    },
+    {
+      "id": "a8d8rq",
+      "name": "鹿江",
+      "alias": []
+    },
+    {
+      "id": "mhzfvk",
+      "name": "伊织",
+      "alias": []
     }
   ],
   "defenseTeams": {
@@ -465,7 +475,19 @@
           "riud7a",
           "q5y2wh"
         ],
-        "counters": []
+        "counters": [
+          {
+            "team": [
+              "a7ipla",
+              "teyp4y",
+              "lvnlf3",
+              "a8d8rq",
+              "w1xrc9",
+              "s0hxml"
+            ],
+            "successCount": 1
+          }
+        ]
       },
       {
         "defense": [
@@ -511,6 +533,75 @@
           "w1xrc9"
         ],
         "counters": []
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "3umvge",
+          "lvnlf3",
+          "w5urq4",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "a7ipla",
+          "lvnlf3",
+          "a8d8rq",
+          "3umvge",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "mhzfvk",
+          "vrjydp",
+          "3umvge",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
       }
     ],
     "s10": [
