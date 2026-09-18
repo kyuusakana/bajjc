@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "20260917-092705-12im",
+  "rev": "20260918-092218-8svn",
   "characters": [
     {
       "id": "3ol55h",
@@ -227,6 +227,11 @@
     {
       "id": "mhzfvk",
       "name": "伊织",
+      "alias": []
+    },
+    {
+      "id": "5795bv",
+      "name": "妮露(制服)",
       "alias": []
     }
   ],
@@ -486,6 +491,72 @@
               "s0hxml"
             ],
             "successCount": 1
+          },
+          {
+            "team": [
+              "zlfr6n",
+              "qpewaq",
+              "teyp4y",
+              "lvnlf3",
+              "w1xrc9",
+              "q5y2wh"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "3ol55h",
+              "qpewaq",
+              "zlfr6n",
+              "teyp4y",
+              "w1xrc9",
+              "s0hxml"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "qpewaq",
+              "zlfr6n",
+              "3ol55h",
+              "jb57x0",
+              "q5y2wh",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "teyp4y",
+              "f9lmy4",
+              "jb57x0",
+              "3ol55h",
+              "w1xrc9",
+              "vlqcl7"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "3umvge",
+              "3ol55h",
+              "vrjydp",
+              "5795bv",
+              "w1xrc9",
+              "q5y2wh"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "a7ipla",
+              "teyp4y",
+              "lvnlf3",
+              "n4fpzp",
+              "w1xrc9",
+              "s0hxml"
+            ],
+            "successCount": 1
           }
         ]
       },
@@ -598,6 +669,29 @@
               "lvnlf3",
               "vlqcl7",
               "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "teyp4y",
+          "zlfr6n",
+          "qpewaq",
+          "w1xrc9",
+          "riud7a"
+        ],
+        "counters": [
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "f9lmy4",
+              "lvnlf3",
+              "w1xrc9",
+              "s0hxml"
             ],
             "successCount": 1
           }
