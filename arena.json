@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "20260918-092218-8svn",
+  "rev": "20260920-091437-i6gl",
   "characters": [
     {
       "id": "3ol55h",
@@ -557,6 +557,17 @@
               "s0hxml"
             ],
             "successCount": 1
+          },
+          {
+            "team": [
+              "3umvge",
+              "lvnlf3",
+              "mhzfvk",
+              "3ol55h",
+              "w1xrc9",
+              "s0hxml"
+            ],
+            "successCount": 1
           }
         ]
       },
@@ -696,402 +707,77 @@
             "successCount": 1
           }
         ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "3umvge",
+          "lvnlf3",
+          "jb57x0",
+          "w1xrc9",
+          "s0hxml"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "w1xrc9",
+              "vlqcl7"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "f9lmy4",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "w5urq4",
+          "3ol55h",
+          "jb57x0",
+          "lvnlf3",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": []
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "jb57x0",
+          "a8d8rq",
+          "3umvge",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "3umvge",
+              "lvnlf3",
+              "mhzfvk",
+              "3ol55h",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
       }
     ],
     "s10": [
-      {
-        "defense": [
-          "n4fpzp",
-          "upyywf",
-          "lvnlf3",
-          "a7ipla",
-          "q5y2wh",
-          "vlqcl7"
-        ],
-        "counters": [
-          {
-            "team": [
-              "3umvge",
-              "a7ipla",
-              "qpewaq",
-              "57cjmt",
-              "s0hxml",
-              "q5y2wh"
-            ],
-            "successCount": 13
-          },
-          {
-            "team": [
-              "f9lmy4",
-              "a7ipla",
-              "0r4qvu",
-              "zlfr6n",
-              "riud7a",
-              "vlqcl7"
-            ],
-            "successCount": 12
-          },
-          {
-            "team": [
-              "0r4qvu",
-              "n4fpzp",
-              "vrjydp",
-              "w5urq4",
-              "q5y2wh",
-              "s0hxml"
-            ],
-            "successCount": 5
-          },
-          {
-            "team": [
-              "iluo0t",
-              "f9lmy4",
-              "qpewaq",
-              "a7ipla",
-              "riud7a",
-              "vlqcl7"
-            ],
-            "successCount": 16
-          }
-        ]
-      },
-      {
-        "defense": [
-          "57cjmt",
-          "teyp4y",
-          "0r4qvu",
-          "iluo0t",
-          "zkkv36",
-          "w1xrc9"
-        ],
-        "counters": [
-          {
-            "team": [
-              "zlfr6n",
-              "vrjydp",
-              "upyywf",
-              "w5urq4",
-              "vlqcl7",
-              "zkkv36"
-            ],
-            "successCount": 3
-          },
-          {
-            "team": [
-              "teyp4y",
-              "vrjydp",
-              "ult78f",
-              "3umvge",
-              "0h6i6g",
-              "zkkv36"
-            ],
-            "successCount": 18
-          },
-          {
-            "team": [
-              "57cjmt",
-              "zlfr6n",
-              "lvnlf3",
-              "0r4qvu",
-              "w1xrc9",
-              "q5y2wh"
-            ],
-            "successCount": 9
-          },
-          {
-            "team": [
-              "n4fpzp",
-              "f9lmy4",
-              "4w9rc0",
-              "57cjmt",
-              "riud7a",
-              "zkkv36"
-            ],
-            "successCount": 6
-          },
-          {
-            "team": [
-              "f9lmy4",
-              "3umvge",
-              "vrjydp",
-              "n4fpzp",
-              "q5y2wh",
-              "riud7a"
-            ],
-            "successCount": 4
-          }
-        ]
-      },
-      {
-        "defense": [
-          "0r4qvu",
-          "3ol55h",
-          "jb57x0",
-          "n4fpzp",
-          "vlqcl7",
-          "riud7a"
-        ],
-        "counters": [
-          {
-            "team": [
-              "0r4qvu",
-              "n4fpzp",
-              "57cjmt",
-              "zlfr6n",
-              "s0hxml",
-              "q5y2wh"
-            ],
-            "successCount": 4
-          },
-          {
-            "team": [
-              "teyp4y",
-              "qpewaq",
-              "57cjmt",
-              "f9lmy4",
-              "w1xrc9",
-              "riud7a"
-            ],
-            "successCount": 15
-          },
-          {
-            "team": [
-              "3umvge",
-              "iluo0t",
-              "qpewaq",
-              "ult78f",
-              "vlqcl7",
-              "riud7a"
-            ],
-            "successCount": 3
-          },
-          {
-            "team": [
-              "3umvge",
-              "w5urq4",
-              "qpewaq",
-              "vrjydp",
-              "zkkv36",
-              "s0hxml"
-            ],
-            "successCount": 9
-          },
-          {
-            "team": [
-              "vrjydp",
-              "jb57x0",
-              "f9lmy4",
-              "iluo0t",
-              "riud7a",
-              "vlqcl7"
-            ],
-            "successCount": 7
-          }
-        ]
-      },
-      {
-        "defense": [
-          "iluo0t",
-          "a7ipla",
-          "4w9rc0",
-          "3ol55h",
-          "s0hxml",
-          "0h6i6g"
-        ],
-        "counters": [
-          {
-            "team": [
-              "ult78f",
-              "3umvge",
-              "upyywf",
-              "vrjydp",
-              "vlqcl7",
-              "riud7a"
-            ],
-            "successCount": 6
-          },
-          {
-            "team": [
-              "n4fpzp",
-              "lvnlf3",
-              "vrjydp",
-              "3umvge",
-              "vlqcl7",
-              "w1xrc9"
-            ],
-            "successCount": 5
-          },
-          {
-            "team": [
-              "n4fpzp",
-              "lvnlf3",
-              "iluo0t",
-              "57cjmt",
-              "0h6i6g",
-              "vlqcl7"
-            ],
-            "successCount": 2
-          },
-          {
-            "team": [
-              "n4fpzp",
-              "lvnlf3",
-              "iluo0t",
-              "qpewaq",
-              "0h6i6g",
-              "q5y2wh"
-            ],
-            "successCount": 8
-          }
-        ]
-      },
-      {
-        "defense": [
-          "3umvge",
-          "zlfr6n",
-          "iluo0t",
-          "f9lmy4",
-          "q5y2wh",
-          "w1xrc9"
-        ],
-        "counters": [
-          {
-            "team": [
-              "iluo0t",
-              "w5urq4",
-              "4w9rc0",
-              "a7ipla",
-              "zkkv36",
-              "q5y2wh"
-            ],
-            "successCount": 17
-          }
-        ]
-      },
-      {
-        "defense": [
-          "3ol55h",
-          "3umvge",
-          "zlfr6n",
-          "n4fpzp",
-          "0h6i6g",
-          "q5y2wh"
-        ],
-        "counters": [
-          {
-            "team": [
-              "upyywf",
-              "jb57x0",
-              "3ol55h",
-              "qpewaq",
-              "q5y2wh",
-              "riud7a"
-            ],
-            "successCount": 7
-          },
-          {
-            "team": [
-              "4w9rc0",
-              "a7ipla",
-              "iluo0t",
-              "3ol55h",
-              "zkkv36",
-              "riud7a"
-            ],
-            "successCount": 10
-          },
-          {
-            "team": [
-              "0r4qvu",
-              "w5urq4",
-              "ult78f",
-              "vrjydp",
-              "vlqcl7",
-              "q5y2wh"
-            ],
-            "successCount": 18
-          },
-          {
-            "team": [
-              "teyp4y",
-              "3ol55h",
-              "57cjmt",
-              "vrjydp",
-              "q5y2wh",
-              "zkkv36"
-            ],
-            "successCount": 11
-          }
-        ]
-      },
-      {
-        "defense": [
-          "jb57x0",
-          "n4fpzp",
-          "57cjmt",
-          "ult78f",
-          "s0hxml",
-          "riud7a"
-        ],
-        "counters": [
-          {
-            "team": [
-              "a7ipla",
-              "upyywf",
-              "vrjydp",
-              "3ol55h",
-              "0h6i6g",
-              "riud7a"
-            ],
-            "successCount": 11
-          },
-          {
-            "team": [
-              "jb57x0",
-              "w5urq4",
-              "3umvge",
-              "57cjmt",
-              "zkkv36",
-              "0h6i6g"
-            ],
-            "successCount": 8
-          },
-          {
-            "team": [
-              "vrjydp",
-              "jb57x0",
-              "w5urq4",
-              "0r4qvu",
-              "riud7a",
-              "0h6i6g"
-            ],
-            "successCount": 2
-          }
-        ]
-      },
-      {
-        "defense": [
-          "4w9rc0",
-          "qpewaq",
-          "3umvge",
-          "jb57x0",
-          "q5y2wh",
-          "w1xrc9"
-        ],
-        "counters": [
-          {
-            "team": [
-              "4w9rc0",
-              "teyp4y",
-              "zlfr6n",
-              "f9lmy4",
-              "zkkv36",
-              "s0hxml"
-            ],
-            "successCount": 8
-          }
-        ]
-      }
     ]
   }
 }
