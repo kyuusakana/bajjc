@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "20260920-091437-i6gl",
+  "rev": "20260922-103536-n3v7",
   "characters": [
     {
       "id": "3ol55h",
@@ -222,17 +222,35 @@
     {
       "id": "a8d8rq",
       "name": "鹿江",
-      "alias": []
+      "alias": [
+        "板垣鹿江",
+        "板垣庚"
+      ]
     },
     {
       "id": "mhzfvk",
       "name": "伊织",
-      "alias": []
+      "alias": [
+        "银镜伊织",
+        "佐仓"
+      ]
     },
     {
       "id": "5795bv",
       "name": "妮露(制服)",
-      "alias": []
+      "alias": [
+        "美甘妮露(制服)",
+        "美甘宁瑠(制服)",
+        "制服妮露"
+      ]
+    },
+    {
+      "id": "5wtj8t",
+      "name": "麻白",
+      "alias": [
+        "静山麻白",
+        "静山真白"
+      ]
     }
   ],
   "defenseTeams": {
@@ -512,7 +530,7 @@
               "w1xrc9",
               "s0hxml"
             ],
-            "successCount": 1
+            "successCount": 2
           },
           {
             "team": [
@@ -727,13 +745,57 @@
               "w1xrc9",
               "vlqcl7"
             ],
-            "successCount": 1
+            "successCount": 2
           },
           {
             "team": [
               "teyp4y",
               "3ol55h",
               "f9lmy4",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "a7ipla",
+              "jb57x0",
+              "qpewaq",
+              "zlfr6n",
+              "5wtj8t",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "vrjydp",
+              "n4fpzp",
+              "3ol55h",
+              "w5urq4",
+              "w1xrc9",
+              "zkkv36"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "qpewaq",
+              "3ol55h",
+              "teyp4y",
+              "zlfr6n",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "w5urq4",
+              "3ol55h",
+              "jb57x0",
               "lvnlf3",
               "s0hxml",
               "w1xrc9"
@@ -775,9 +837,99 @@
             "successCount": 1
           }
         ]
+      },
+      {
+        "defense": [
+          "vrjydp",
+          "3umvge",
+          "3ol55h",
+          "qpewaq",
+          "riud7a",
+          "q5y2wh"
+        ],
+        "counters": [
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "f9lmy4",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "qpewaq",
+          "zlfr6n",
+          "teyp4y",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "teyp4y",
+              "3ol55h",
+              "f9lmy4",
+              "lvnlf3",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "jb57x0",
+          "lvnlf3",
+          "w5urq4",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "a8d8rq",
+          "3umvge",
+          "vrjydp",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "qpewaq",
+              "3ol55h",
+              "teyp4y",
+              "zlfr6n",
+              "s0hxml",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
       }
-    ],
-    "s10": [
     ]
   }
 }
