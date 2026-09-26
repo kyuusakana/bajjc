@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": "20260922-103536-n3v7",
+  "rev": "20260926-150317-ctth",
   "characters": [
     {
       "id": "3ol55h",
@@ -251,6 +251,22 @@
         "静山麻白",
         "静山真白"
       ]
+    },
+    {
+      "id": "ptekdi",
+      "name": "白子(泳装)",
+      "alias": [
+		"砂狼白子"
+	  ]
+    },
+    {
+      "id": "utvgii",
+      "name": "弥香",
+      "alias": [
+		"圣园弥香",
+		"圣园未花",
+		"粉色大猩猩"
+	  ]
     }
   ],
   "defenseTeams": {
@@ -530,7 +546,7 @@
               "w1xrc9",
               "s0hxml"
             ],
-            "successCount": 2
+            "successCount": 3
           },
           {
             "team": [
@@ -632,7 +648,41 @@
           "s0hxml",
           "w1xrc9"
         ],
-        "counters": []
+        "counters": [
+          {
+            "team": [
+              "4w9rc0",
+              "a8d8rq",
+              "zlfr6n",
+              "vrjydp",
+              "zkkv36",
+              "ptekdi"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "4w9rc0",
+              "a8d8rq",
+              "vrjydp",
+              "zlfr6n",
+              "ptekdi",
+              "zkkv36"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "3ol55h",
+              "n4fpzp",
+              "a8d8rq",
+              "w5urq4",
+              "0h6i6g",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          }
+        ]
       },
       {
         "defense": [
@@ -834,6 +884,17 @@
               "s0hxml",
               "w1xrc9"
             ],
+            "successCount": 0
+          },
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
             "successCount": 1
           }
         ]
@@ -857,7 +918,7 @@
               "s0hxml",
               "w1xrc9"
             ],
-            "successCount": 1
+            "successCount": 2
           }
         ]
       },
@@ -926,10 +987,101 @@
               "s0hxml",
               "w1xrc9"
             ],
+            "successCount": 2
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "a8d8rq",
+          "3umvge",
+          "jb57x0",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "jb57x0",
+              "4w9rc0",
+              "3ol55h",
+              "lvnlf3",
+              "vlqcl7",
+              "w1xrc9"
+            ],
             "successCount": 1
           }
         ]
+      },
+      {
+        "defense": [
+          "5795bv",
+          "vrjydp",
+          "mhzfvk",
+          "3ol55h",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": [
+          {
+            "team": [
+              "3ol55h",
+              "utvgii",
+              "a7ipla",
+              "vrjydp",
+              "w1xrc9",
+              "zkkv36"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "w5urq4",
+              "a7ipla",
+              "3ol55h",
+              "lvnlf3",
+              "0h6i6g",
+              "w1xrc9"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "57cjmt",
+              "3ol55h",
+              "n4fpzp",
+              "a7ipla",
+              "ptekdi",
+              "zkkv36"
+            ],
+            "successCount": 1
+          },
+          {
+            "team": [
+              "3ol55h",
+              "n4fpzp",
+              "a7ipla",
+              "w5urq4",
+              "q5y2wh",
+              "riud7a"
+            ],
+            "successCount": 1
+          }
+        ]
+      },
+      {
+        "defense": [
+          "3ol55h",
+          "qpewaq",
+          "4w9rc0",
+          "mhzfvk",
+          "s0hxml",
+          "w1xrc9"
+        ],
+        "counters": []
       }
     ]
-  }
+  },
+  "blindWeights": []
 }
